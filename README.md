@@ -33,7 +33,7 @@ func main() {
 }
 ```
 
-What you say? Go not your thing. No problem!
+What you say? Go not your thing? No problem!
 
 ```perl
 use strict;
